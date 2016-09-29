@@ -2,4 +2,4 @@
 
 #include <string>
 
-void sayHello(const std::string& name) __attribute__((deprecated));
+void sayHello(const std::string& name);
